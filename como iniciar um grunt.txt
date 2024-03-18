@@ -1,0 +1,14 @@
+npm i -g grunt-cli
+
+npm init
+
+npm i --save-dev grunt
+
+no package.json colosar em scrips 
+
+"grunt": "grunt",
+
+npm install --save-dev grunt-contrib-less
+npm install --save-dev grunt-contrib-sass
+
+npm install --save-dev grunt-concurrent
